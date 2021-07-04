@@ -1,0 +1,16 @@
+#logo{
+    height: 30px; margin-right: 5px;
+}
+
+#menupri{
+    margin-right: 400px;
+}
+h3{
+    text-align: center;
+}
+#figura1, #figura2, #figura3, #figura4, #figura5, #figura6, #figura7, #figura8, #figura9{
+    width: 100px;
+}
+#audio1, #audio2, #audio3, #audio4, #audio5, #audio6, #audio7, #audio8, #audio9{
+    width: 70%; 
+}
